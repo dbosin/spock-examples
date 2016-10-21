@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="ARARdbosin" name="prueba.grails.BookControllerSpec" tests="2" time="2.995" timestamp="2016-10-21T21:44:43">
+  <properties />
+  <testcase classname="prueba.grails.BookControllerSpec" name="test create a book" time="2.73" />
+  <testcase classname="prueba.grails.BookControllerSpec" name="test list books" time="0.133" />
+  <system-out><![CDATA[--Output from test create a book--
+--Output from test list books--
+]]></system-out>
+  <system-err><![CDATA[--Output from test create a book--
+--Output from test list books--
+]]></system-err>
+</testsuite>

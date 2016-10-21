@@ -1,0 +1,13 @@
+Testsuite: prueba.grails.BookControllerSpec
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 2.995 sec
+------------- Standard Output ---------------
+--Output from test create a book--
+--Output from test list books--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test create a book--
+--Output from test list books--
+------------- ---------------- ---------------
+
+Testcase: test create a book took 2.731 sec
+Testcase: test list books took 0.133 sec
